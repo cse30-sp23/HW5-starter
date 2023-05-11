@@ -12,7 +12,8 @@
 int main(int argc, char **argv) {
 	int s_flag;
 	unsigned long tabsz;
-	// TODO: parse opts with getopt and initialize these variables
+	// TODO: parse opts with getopt and initialize these variables 
+	// (see strtoul for parsing unsigned long)
 
 	
 	// TODO: initialze htable
